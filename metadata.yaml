@@ -1,5 +1,5 @@
 _repo: Miss-Billy-A-Neighborhood-Story_60495
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Copeland, Charles
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3033'
     url: http://www.gutenberg.org/2009/agents/3033
     wikipedia: http://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 60495-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stokely, Edith Keeley
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '50983'
     url: http://www.gutenberg.org/2009/agents/50983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60495#Miss-Billy-A-Neighborhood-Story
 gutenberg_issued: '2019-10-14'
 gutenberg_type: Text
 identifiers:
